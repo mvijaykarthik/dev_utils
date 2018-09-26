@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/projects/workspace/go/src/github.com/cockroachdb/cockroach/artifacts/acceptance/logTestDecommission_runMode=local871398633'
+let g:netrw_dirhist_2='/home/projects/workspace/go/src/github.com/cockroachdb/cockroach/artifacts/acceptance/test_dir221552568/log_dir_0'
+let g:netrw_dirhist_3='/home/projects/workspace/sdmain/deployment/ansible/roles/rk_failure_test'
+let g:netrw_dirhist_4='/home/projects/workspace/sdmain/src/go/src/rubrik'
+let g:netrw_dirhist_5='/home/projects/workspace/sdmain/src/go/src'
+let g:netrw_dirhist_6='/home/projects/workspace/sdmain/deployment/ansible/roles/sd_node'
+let g:netrw_dirhist_7='/home/vijay/tmp'
+let g:netrw_dirhist_8='/home/vijay/.emacs.d'
